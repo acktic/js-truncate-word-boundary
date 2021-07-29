@@ -1,0 +1,1 @@
+# js-truncate-word-boundary
