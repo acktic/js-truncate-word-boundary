@@ -4,7 +4,7 @@ Example
 
           let trun =
             truncate(
-              complete,
+              string,
               number,
               true
             );
