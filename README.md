@@ -1,5 +1,7 @@
 # js-truncate-word-boundary
 Example
+
+`
           let trun =
             truncate(
               complete,
@@ -24,3 +26,4 @@ let truncate = function (
       : subString)
   );
 };
+`
